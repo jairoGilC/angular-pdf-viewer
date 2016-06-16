@@ -1,4 +1,6 @@
-# No Longer Maintained! [![forthebadge](http://forthebadge.com/images/badges/compatibility-betamax.svg)](http://forthebadge.com)
+# Fork
+
+this project is a fork from [angular-pdf-generator](https://github.com/winkerVSbecks/angular-pdf-viewer/tree/mbavio) and it was created because the older project don't have more maintenance. 
 
 ## Angular PDF Viewer
 
@@ -12,7 +14,7 @@ An AngularJS directive to display PDFs. [DEMO](http://codepen.io/winkerVSbecks/f
 
 ## Usage
 
-1. `bower install angular-pdf-viewer`
+1. `bower install angular-doc-viewer`
 
 2. Include the path to the lib, AngularJS and PDFJS:
 
